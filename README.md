@@ -3,7 +3,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/nax0100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanase_wata" height="30" width="40" /></a>
+<a href="https://twitter.com/nanase_wata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nanase_wata" height="30" width="40" /></a>
 </p>
 
 ### Skills
